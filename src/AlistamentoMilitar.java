@@ -5,9 +5,8 @@ Se o sexo for Masculino e a idade for menor que 18, o sistema deve imprimir alis
 Se o sexo for Feminino e a idade for maior ou igual a 18, o sistema deve perguntar se a pessoa deseja se alistar.
 Se o sexo for Feminino e a idade for menor que 18, o sistema deve imprimir, alistamento não permitido.
  */
-
-
-public class AlistamentoMilitar {
+// cagada
+    
 
     public static void main(String[] args) {
         char sexo = 'F';
